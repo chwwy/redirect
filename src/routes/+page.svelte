@@ -1,6 +1,6 @@
 <script>
   const verseRef = "Hebrews 4:1";
-  const targetUrl = "https://naorthstar.medium.com/";
+  const targetUrl = "https://naorthern.medium.com/";
 </script>
 
 <!-- Google Font -->
